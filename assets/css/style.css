@@ -4,3 +4,11 @@ h1 {
     font-family: monospace, sans-serif;
     font-weight: bold;
 }
+
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+}
