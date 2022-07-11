@@ -6,9 +6,8 @@ This is my portfolio web page. It will serve as my first project for BATECH 189 
 
 ## Screenshots
 
-![portfolio](assets/images/portfolio.png)
+![portfolio](assets/images/portfolio.PNG)
 
 ## Links
 
 * https://github.com/pfsun89/Portfolio
-* https://pfsun89.github.io/Portfolio/
